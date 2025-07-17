@@ -11,7 +11,7 @@ export default function EagleCoinSite() {
     <a href="https://t.me/eaglesola" target="_blank" rel="noopener noreferrer">
       <img src="/icons/telegram.svg" alt="Telegram" className="w-8 h-8 hover:scale-110 transition" />
     </a>
-    <a href="#" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/EAGLESOLAN" target="_blank" rel="noopener noreferrer">
       <img src="/icons/x.svg" alt="Twitter (X)" className="w-8 h-8 hover:scale-110 transition" />
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
